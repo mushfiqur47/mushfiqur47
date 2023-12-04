@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Count Dracul Yeamin the Scorpio</h1>
-<h3 align="center">A Passionate Malware Lover<?></h3>
+<h3 align="center"> Malware Lover<?></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqur47&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqur47" /> </p>
 
