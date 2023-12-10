@@ -64,7 +64,7 @@
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
-<p>https://github-readme-stats.vercel.app/api/top-langs/?username={mushfiqur47}&theme=blue-green</p>
+<p>https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqur47&theme=blue-green</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&show_icons=true&locale=en&layout=compact" alt="mushfiqur47" /></p>
 
