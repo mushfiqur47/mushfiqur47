@@ -20,6 +20,9 @@
 
 - ## 🙋‍♀️ Let's Connect
 
+-
+![Ana De Armas!](https://i.postimg.cc/bwHs24bJ/ana-de-armas-ana-de-armas-talking.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/countdracyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="countdracyeamin" height="30" width="40" /></a>
