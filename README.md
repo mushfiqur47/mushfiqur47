@@ -20,7 +20,6 @@
 
 - ## 🙋‍♀️ Let's Connect
 
--
 ![Ana De Armas!](https://i.postimg.cc/bwHs24bJ/ana-de-armas-ana-de-armas-talking.gif)
 
 <h3 align="left">Connect with me:</h3>
