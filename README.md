@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Count Dracul Yeamin the Scorpio</h1>
 <h3 align="center"> Malware Lover<?></h3>
 
+![Darling!](https://i.postimg.cc/50dTdFH6/wallpaperflare-com-wallpaper-5.jpg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqur47&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqur47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mushfiqur47" alt="mushfiqur47" /></a> </p>
