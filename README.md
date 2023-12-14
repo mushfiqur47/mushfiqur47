@@ -40,6 +40,8 @@
 
 ### 💻 Software and Tools
 
+![Ana De Armas!](https://i.postimg.cc/50j0T0rY/ana-de-armas-deep-water.gif)
+
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
