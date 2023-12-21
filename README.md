@@ -86,9 +86,8 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
+
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>
 canvas {
@@ -221,8 +220,6 @@ function accelerate(n) {
 <button onmousedown="accelerate(-0.2)" onmouseup="accelerate(0.05)">ACCELERATE</button>
 <p>Use the ACCELERATE button to stay in the air</p>
 <p>How long can you stay alive?</p>
-</body>
-</html>
 
 
 
