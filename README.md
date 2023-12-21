@@ -87,8 +87,8 @@
 
 
 
-<head>
-  <title>Basic Tetris HTML Game</title>
+
+ 
   <meta charset="UTF-8">
   <style>
   html, body {
@@ -132,7 +132,7 @@ function generateSequence() {
   }
 }
 
-// get the next tetromino in the sequence
+
 function getNextTetromino() {
   if (tetrominoSequence.length === 0) {
     generateSequence();
@@ -143,10 +143,10 @@ function getNextTetromino() {
 
   
   return {
-    name: name,      // name of the piece (L, O, etc.)
-    matrix: matrix,  // the current rotation matrix
-    row: row,        // current row (starts offscreen)
-    col: col         // current col
+    name: name,      
+    matrix: matrix,  
+    row: row,        
+    col: col         
   };
 }
 
@@ -160,16 +160,16 @@ function rotate(matrix) {
   return result;
 }
 
-// check to see if the new matrix/row/col is valid
+
 function isValidMove(matrix, cellRow, cellCol) {
   for (let row = 0; row < matrix.length; row++) {
     for (let col = 0; col < matrix[row].length; col++) {
       if (matrix[row][col] && (
-          // outside the game bounds
+          
           cellCol + col < 0 ||
           cellCol + col >= playfield[0].length ||
           cellRow + row >= playfield.length ||
-          // collides with another piece
+         
           playfield[cellRow + row][cellCol + col])
         ) {
         return false;
@@ -180,13 +180,13 @@ function isValidMove(matrix, cellRow, cellCol) {
   return true;
 }
 
-// place the tetromino on the playfield
+
 function placeTetromino() {
   for (let row = 0; row < tetromino.matrix.length; row++) {
     for (let col = 0; col < tetromino.matrix[row].length; col++) {
       if (tetromino.matrix[row][col]) {
 
-        // game over if piece has any part offscreen
+        
         if (tetromino.row + row < 0) {
           return showGameOver();
         }
@@ -196,11 +196,11 @@ function placeTetromino() {
     }
   }
 
-  // check for line clears starting from the bottom and working our way up
+  
   for (let row = playfield.length - 1; row >= 0; ) {
     if (playfield[row].every(cell => !!cell)) {
 
-      // drop every row above this one
+      
       for (let r = row; r >= 0; r--) {
         for (let c = 0; c < playfield[r].length; c++) {
           playfield[r][c] = playfield[r-1][c];
@@ -392,6 +392,6 @@ document.addEventListener('keydown', function(e) {
 // start the game
 rAF = requestAnimationFrame(loop);
 </script>
-</body>
-</html>
+
+
 
