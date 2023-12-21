@@ -89,12 +89,8 @@
 
 
  
-  <meta charset="UTF-8">
-  <style>
-  html, body {
-    height: 100%;
-    margin: 0;
-  }
+  
+  
 
   body {
     background: black;
@@ -106,8 +102,8 @@
   canvas {
     border: 1px solid white;
   }
-  </style>
-</head>
+  
+
 <body>
 <canvas width="320" height="640" id="game"></canvas>
 <script>
@@ -389,7 +385,7 @@ document.addEventListener('keydown', function(e) {
   }
 });
 
-// start the game
+
 rAF = requestAnimationFrame(loop);
 </script>
 
