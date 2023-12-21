@@ -85,8 +85,8 @@
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 
-<!DOCTYPE html>
-<html>
+
+
 <head>
   <title>Basic Tetris HTML Game</title>
   <meta charset="UTF-8">
@@ -111,10 +111,9 @@
 <body>
 <canvas width="320" height="640" id="game"></canvas>
 <script>
-// https://tetris.fandom.com/wiki/Tetris_Guideline
 
-// get a random integer between the range of [min,max]
-// @see https://stackoverflow.com/a/1527820/2124254
+
+
 function getRandomInt(min, max) {
   min = Math.ceil(min);
   max = Math.floor(max);
@@ -122,8 +121,7 @@ function getRandomInt(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-// generate a new tetromino sequence
-// @see https://tetris.fandom.com/wiki/Random_Generator
+
 function generateSequence() {
   const sequence = ['I', 'J', 'L', 'O', 'S', 'T', 'Z'];
 
@@ -143,12 +141,7 @@ function getNextTetromino() {
   const name = tetrominoSequence.pop();
   const matrix = tetrominos[name];
 
-  // I and O start centered, all others start in left-middle
-  const col = playfield[0].length / 2 - Math.ceil(matrix[0].length / 2);
-
-  // I starts on row 21 (-1), all others start on row 22 (-2)
-  const row = name === 'I' ? -1 : -2;
-
+  
   return {
     name: name,      // name of the piece (L, O, etc.)
     matrix: matrix,  // the current rotation matrix
@@ -157,8 +150,7 @@ function getNextTetromino() {
   };
 }
 
-// rotate an NxN matrix 90deg
-// @see https://codereview.stackexchange.com/a/186834
+
 function rotate(matrix) {
   const N = matrix.length - 1;
   const result = matrix.map((row, i) =>
@@ -223,7 +215,7 @@ function placeTetromino() {
   tetromino = getNextTetromino();
 }
 
-// show the game over screen
+
 function showGameOver() {
   cancelAnimationFrame(rAF);
   gameOver = true;
@@ -245,11 +237,10 @@ const context = canvas.getContext('2d');
 const grid = 32;
 const tetrominoSequence = [];
 
-// keep track of what is in every cell of the game using a 2d array
-// tetris playfield is 10x20, with a few rows offscreen
+
 const playfield = [];
 
-// populate the empty state
+
 for (let row = -2; row < 20; row++) {
   playfield[row] = [];
 
@@ -258,8 +249,7 @@ for (let row = -2; row < 20; row++) {
   }
 }
 
-// how to draw each tetromino
-// @see https://tetris.fandom.com/wiki/SRS
+
 const tetrominos = {
   'I': [
     [0,0,0,0],
@@ -298,7 +288,7 @@ const tetrominos = {
   ]
 };
 
-// color of each tetromino
+
 const colors = {
   'I': 'cyan',
   'O': 'yellow',
@@ -311,10 +301,10 @@ const colors = {
 
 let count = 0;
 let tetromino = getNextTetromino();
-let rAF = null;  // keep track of the animation frame so we can cancel it
+let rAF = null; 
 let gameOver = false;
 
-// game loop
+
 function loop() {
   rAF = requestAnimationFrame(loop);
   context.clearRect(0,0,canvas.width,canvas.height);
@@ -326,21 +316,21 @@ function loop() {
         const name = playfield[row][col];
         context.fillStyle = colors[name];
 
-        // drawing 1 px smaller than the grid creates a grid effect
+        
         context.fillRect(col * grid, row * grid, grid-1, grid-1);
       }
     }
   }
 
-  // draw the active tetromino
+  
   if (tetromino) {
 
-    // tetromino falls every 35 frames
+    
     if (++count > 35) {
       tetromino.row++;
       count = 0;
 
-      // place piece if it runs into anything
+      
       if (!isValidMove(tetromino.matrix, tetromino.row, tetromino.col)) {
         tetromino.row--;
         placeTetromino();
@@ -353,7 +343,7 @@ function loop() {
       for (let col = 0; col < tetromino.matrix[row].length; col++) {
         if (tetromino.matrix[row][col]) {
 
-          // drawing 1 px smaller than the grid creates a grid effect
+          
           context.fillRect((tetromino.col + col) * grid, (tetromino.row + row) * grid, grid-1, grid-1);
         }
       }
@@ -361,11 +351,11 @@ function loop() {
   }
 }
 
-// listen to keyboard events to move the active tetromino
+
 document.addEventListener('keydown', function(e) {
   if (gameOver) return;
 
-  // left and right arrow keys (move)
+ 
   if (e.which === 37 || e.which === 39) {
     const col = e.which === 37
       ? tetromino.col - 1
@@ -376,7 +366,7 @@ document.addEventListener('keydown', function(e) {
     }
   }
 
-  // up arrow key (rotate)
+ 
   if (e.which === 38) {
     const matrix = rotate(tetromino.matrix);
     if (isValidMove(matrix, tetromino.row, tetromino.col)) {
@@ -384,7 +374,7 @@ document.addEventListener('keydown', function(e) {
     }
   }
 
-  // down arrow key (drop)
+ 
   if(e.which === 40) {
     const row = tetromino.row + 1;
 
