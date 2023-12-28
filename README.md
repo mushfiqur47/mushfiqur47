@@ -83,14 +83,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqur47&" alt="mushfiqur47" /></p>
 
 
-
-![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
-
-
 ![mushfiqur47's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mushfiqur47&custom_title=mushfiqur47's%20GitHub%20Activity%20Graph&bg_color=#ffff00&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
-
+![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
