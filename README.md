@@ -82,7 +82,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqur47&" alt="mushfiqur47" /></p>
 
-![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mushfiqur47)
 
 
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
