@@ -81,13 +81,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqur47&" alt="mushfiqur47" /></p>
 
+
+![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
+
 <h3 align="left">Activity:</h3>
 
 ![mushfiqur47's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mushfiqur47&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 
-![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
+
 
 
 
