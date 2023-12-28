@@ -33,7 +33,7 @@
 <a href="https://www.codechef.com/users/countdracul47" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="countdracul47" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mushfiqur47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mushfiqur47" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@countdraculyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@countdraculyeamin" height="30" width="40" /></a>
-<a href="https://www.hackerone.com/syndicate10x" target="blank"><img align ="center" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" alt="syndicate10x" height="65" width="84" /></a>  
+<a href="https://www.hackerone.com/syndicate10x" target="blank"><img align ="center" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg" alt="syndicate10x" height="35" width="44" /></a>  
 </p>
 
 ![Ana De Armas!](https://i.postimg.cc/VLyb2qWj/giphy.gif)
