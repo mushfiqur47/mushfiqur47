@@ -78,9 +78,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&show_icons=true&locale=en&layout=donut" alt="mushfiqur47" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushfiqur47&langs_count=8&hide_title=true&langs_count=8&layout=compact&hide_border=true&bg_color=#ffffff&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
-</div>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfiqur47&show_icons=true&locale=en" alt="mushfiqur47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqur47&" alt="mushfiqur47" /></p>
