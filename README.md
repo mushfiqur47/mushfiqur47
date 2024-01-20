@@ -88,6 +88,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushfiqur47&theme=vue) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushfiqur47&theme=vue&utcOffset=8) 
+
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
