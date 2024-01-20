@@ -76,7 +76,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=donut" alt="mushfiqur47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=pie" alt="mushfiqur47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfiqur47&show_icons=true&locale=en" alt="mushfiqur47" /></p>
 
@@ -85,6 +85,8 @@
 
 ![mushfiqur47's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mushfiqur47&custom_title=mushfiqur47's%20GitHub%20Activity%20Graph&bg_color=#ffff00&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushfiqur47&theme=vue) 
 
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
