@@ -94,6 +94,8 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pvqncauybqeidk4pfpihf2h6om" alt="Data Card for Spotify">
 </a>
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0C8ZW7ezQVs4URX5aX7Kqx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
