@@ -90,6 +90,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushfiqur47&theme=vue&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushfiqur47&theme=vue)
 
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31pvqncauybqeidk4pfpihf2h6om">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pvqncauybqeidk4pfpihf2h6om" alt="Data Card for Spotify">
+</a>
+
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
