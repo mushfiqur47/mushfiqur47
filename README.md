@@ -88,7 +88,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mushfiqur47&theme=vue) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushfiqur47&theme=vue&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mushfiqur47&theme=vue&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mushfiqur47&theme=vue)
 
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
