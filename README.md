@@ -76,7 +76,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=donut" alt="mushfiqur47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=pie" alt="mushfiqur47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfiqur47&show_icons=true&locale=en" alt="mushfiqur47" /></p>
 
@@ -94,8 +94,7 @@
   <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pvqncauybqeidk4pfpihf2h6om" alt="Data Card for Spotify">
 </a>
 
-
-![Metrics](https://metrics.lecoq.io/mushfiqur47?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
+![Metrics](https://metrics.lecoq.io/mushfiqur47?template=classic&isocalendar=1&lines=1&habits=1&achievements=1&stars=1&topics=1&skyline=1&stock=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=5&lines.history.limit=2&lines.delay=0&topics=false&topics.mode=labels&topics.sort=stars&topics.limit=15&stars=false&stars.limit=5&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&skyline=false&skyline.year=2&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=true&skyline.settings=%7B%0A%20%20%22url%22%3A%20%22https%3A%2F%2Fskyline.github.com%2F%24%7Blogin%7D%2F%24%7Byear%7D%22%2C%0A%20%20%22ready%22%3A%20%22%5B...document.querySelectorAll('span')%5D.map(span%20%3D%3E%20span.innerText).includes('Share%20on%20Twitter')%22%2C%0A%20%20%22wait%22%3A%201%2C%0A%20%20%22hide%22%3A%20%22button%2C%20footer%2C%20a%22%0A%7D%0A&stock=false&stock.duration=1d&stock.interval=5m&config.timezone=Asia%2FDhaka)
 
 
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
