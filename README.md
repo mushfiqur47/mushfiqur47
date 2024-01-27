@@ -76,7 +76,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=pie" alt="mushfiqur47" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mushfiqur47&langs_count=12&show_icons=true&locale=en&layout=list" alt="mushfiqur47" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfiqur47&show_icons=true&locale=en" alt="mushfiqur47" /></p>
 
