@@ -95,6 +95,9 @@
 </a>
 
 
+![Metrics](https://metrics.lecoq.io/mushfiqur47?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FDhaka)
+
+
 ![Ana De Armas!](https://i.postimg.cc/xC7GqqNM/you-look-lonely-i-can-fix-that-bladerunner2049.gif)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
