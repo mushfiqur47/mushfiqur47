@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **countdracul47@protonmail.com**
 
-- ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 🙋‍♀️ Let's Connect  
+- ## 🙋‍♀️ Let's Connect  <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 
 ![Ana De Armas!](https://i.postimg.cc/bwHs24bJ/ana-de-armas-ana-de-armas-talking.gif)
 
