@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **countdracul47@protonmail.com**
 
-- ## 🙋‍♀️ Let's Connect  
+- ## 🙋‍♀️ Let's Connect
 
-![Ana De Armas!](https://i.postimg.cc/bwHs24bJ/ana-de-armas-ana-de-armas-talking.gif)
+![Ana De Armas!](https://i.postimg.cc/8k74nqCw/BkK2.gif)
  ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 <p align="left">
 <a href="https://twitter.com/countdracyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="countdracyeamin" height="30" width="40" /></a>
