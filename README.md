@@ -83,9 +83,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mushfiqur47&show_icons=true&locale=en" alt="mushfiqur47" /></p>
 
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mushfiqur47&" alt="mushfiqur47" /></p>
 
 
 ![mushfiqur47's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mushfiqur47&custom_title=mushfiqur47's%20GitHub%20Activity%20Graph&bg_color=#ffff00&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
