@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/countdracyeamin" target="blank"><img src="https://img.shields.io/twitter/follow/countdracyeamin?logo=twitter&style=for-the-badge" alt="countdracyeamin" /></a> </p>
 
-- 🌱 I’m currently learning **Biochemistry and Chemistry**
+- 🌱 I’m currently learning **Stuxnet and Chemistry**
 
-- 🤝 I’m looking for help with **Phage Theraphy**
+- 🤝 I’m looking for help with **Buffer Overflowwwwwwwww**
 
 - 💬 Ask me about **my sad life <?>**
 
