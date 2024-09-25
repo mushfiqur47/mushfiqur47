@@ -117,7 +117,9 @@
 ![TryHackMeBadges!](https://i.postimg.cc/0jvHTnST/tryhackme-com-Syndicate10-X-badges-owasp-10.jpg)
 
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
 
 
 
