@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Count Dracul Yeamin the Scorpio</h1>
-
+<h2 align="center">  <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicate10X.png" alt="TryHackMe"></h2>
 <h3 align="center"> Malware Lover<?></h3>
 
 ![Darling!](https://i.postimg.cc/50dTdFH6/wallpaperflare-com-wallpaper-5.jpg)
@@ -37,7 +37,6 @@
 <a href="https://auth.geeksforgeeks.org/user/mushfimi7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mushfimi7k" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/countdracula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="countdracula" height="30" width="40" /></a> 
 <a href="https://hackerone.com/countdraculyeaminthescorpio?type=user" target="blank"><img align ="center" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-ar21.svg" alt="countdraculyeaminthescorpio" height="56" width="89" /></a> 
- <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicate10X.png" alt="TryHackMe">
 </p>
 
 ![Ana De Armas!](https://i.postimg.cc/VLyb2qWj/giphy.gif)
