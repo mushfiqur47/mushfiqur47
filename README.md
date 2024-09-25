@@ -116,6 +116,12 @@
 ![TryHackMeBadges!](https://i.postimg.cc/wBSrVgjT/tryhackme-com-Syndicate10-X-badges-linux-privesc.jpg)
 ![TryHackMeBadges!](https://i.postimg.cc/0jvHTnST/tryhackme-com-Syndicate10-X-badges-owasp-10.jpg)
 
+![TryHackMeBadges!](https://i.postimg.cc/Zn2gfNmg/Try-Hack-Me-User-Badge-Mozilla-Firefox-9-25-2024-6-00-21-PM.png)
+![TryHackMeBadges!](https://i.postimg.cc/0yp3frBW/Try-Hack-Me-User-Badge-Mozilla-Firefox-9-25-2024-6-01-45-PM.png)
+![TryHackMeBadges!]([https://i.postimg.cc/gkL1xgqP/Try-Hack-Me-User-Badge-Mozilla-Firefox-9-25-2024-6-01-38-PM.png)
+![TryHackMeBadges!](https://i.postimg.cc/zf7cs65T/Try-Hack-Me-User-Badge-Mozilla-Firefox-9-25-2024-6-02-00-PM.png)
+![TryHackMeBadges!](https://i.postimg.cc/DznNYnV2/Try-Hack-Me-User-Badge-Mozilla-Firefox-9-25-2024-6-01-52-PM.png)
+
 
 
 
