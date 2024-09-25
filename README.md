@@ -2,8 +2,6 @@
 <h2 align="center">  <img src="https://tryhackme-badges.s3.amazonaws.com/Syndicate10X.png" alt="TryHackMe"></h2>
 <h3 align="center"> Malware Lover<?></h3>
 
-![TryHackMeBadges!](https://i.postimg.cc/0jvHTnST/tryhackme-com-Syndicate10-X-badges-owasp-10.jpg)
-
 ![Darling!](https://i.postimg.cc/50dTdFH6/wallpaperflare-com-wallpaper-5.jpg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mushfiqur47&label=Profile%20views&color=0e75b6&style=flat" alt="mushfiqur47" /> </p>
@@ -114,7 +112,9 @@
 &nbsp;
 
 
-
+![TryHackMeBadges!](https://i.postimg.cc/1twj7280/tryhackme-com-Syndicate10-X-badges-500-day-streak.jpg)
+![TryHackMeBadges!](https://i.postimg.cc/wBSrVgjT/tryhackme-com-Syndicate10-X-badges-linux-privesc.jpg)
+![TryHackMeBadges!](https://i.postimg.cc/0jvHTnST/tryhackme-com-Syndicate10-X-badges-owasp-10.jpg)
 
 
 
