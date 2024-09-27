@@ -113,6 +113,7 @@
 
 
 ![TryHackMeBadges!](https://i.postimg.cc/1twj7280/tryhackme-com-Syndicate10-X-badges-500-day-streak.jpg)
+![TryHackMeBadges!](https://i.postimg.cc/QCLBqCkh/tryhackme-com-Syndicate10-X-badges-30-day-streak.jpg)
 ![TryHackMeBadges!](https://i.postimg.cc/wBSrVgjT/tryhackme-com-Syndicate10-X-badges-linux-privesc.jpg)
 ![TryHackMeBadges!](https://i.postimg.cc/0jvHTnST/tryhackme-com-Syndicate10-X-badges-owasp-10.jpg)
 
