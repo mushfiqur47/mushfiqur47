@@ -23,7 +23,7 @@
 - ## 🙋‍♀️ Let's Connect
 
 ![Ana De Armas!](https://i.postimg.cc/KzYwqQFz/BkK2.gif)
- ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
+/ ## Connect with me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> 
 <p align="left">
 <a href="https://twitter.com/countdracyeamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="countdracyeamin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13087877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13087877" height="30" width="40" /></a>
