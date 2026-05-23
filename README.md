@@ -96,9 +96,7 @@
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> 
 
-##<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31pvqncauybqeidk4pfpihf2h6om">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31pvqncauybqeidk4pfpihf2h6om" alt="Data Card for Spotify">
-</a>##
+
 
 
 
